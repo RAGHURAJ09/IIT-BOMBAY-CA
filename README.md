@@ -1,6 +1,23 @@
-# Techfest, IIT Bombay — College Ambassador Program
+# IIT Bombay Techfest — College Ambassador Projects
 
-This repository documents my work, responsibilities, initiatives, and outreach contributions during my tenure as an official College Ambassador for Techfest, IIT Bombay — one of Asia's largest science and technology festivals.
+This repository contains two frontend concepts created for the IIT Bombay Techfest College Ambassador portfolio, along with documentation of the ambassador experience.
+
+## Interactive Projects
+
+- [`Build 3D/`](Build%203D/README.md) — An immersive Techfest landing page with a 3D-inspired scene, responsive layout, event highlights, workshops, and interactive pointer/scroll motion.
+- [`Cyborg-Themed/`](Cyborg-Themed/README.md) — A cyberpunk NEXUS-09 interface concept with system telemetry, interactive controls, responsive system cards, and a contact action.
+
+Both projects use Vite and vanilla JavaScript. They can be run independently from their own folders.
+
+## Quick Start
+
+```powershell
+cd "Build 3D"
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite. Use the same commands from `Cyborg-Themed` to run the second experience.
 
 ## 🆔 Credentials
 
@@ -23,12 +40,11 @@ My responsibilities involved building awareness on campus, coordinating particip
 - Public Relations: Worked closely with peers, student clubs, and campus communities to strengthen Techfest's visibility and presence.
 - Task Execution: Successfully completed assigned milestone tasks and strategic initiatives provided by the Techfest team.
 
-## 📁 Repository Structure
+## Repository Structure
 
-- `/tasks/` — Weekly tasks, challenge submissions, and assigned responsibilities.
-- `/analytics/` — Referral tracking, outreach metrics, performance data, and progress monitoring.
-- `/marketing/` — Promotional materials, campus pitch content, posters, banners, and digital campaign assets.
-- `/portfolio/` — Optional documentation of achievements, outreach summaries, and personal reflection notes.
+- `/Build 3D/` — Techfest 3D-inspired interactive frontend.
+- `/Cyborg-Themed/` — NEXUS-09 cybernetic interface frontend.
+- `/README.md` — Project and ambassador-program overview.
 
 ## 🏆 Key Achievements
 
