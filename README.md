@@ -5,8 +5,8 @@ This repository documents my work, responsibilities, initiatives, and outreach c
 ## 🆔 Credentials
 
 - Ambassador ID: `CA-082402255646`
-- Representing: [Your College Name]
-- Final Rank Achieved: [Bronze / Silver / Gold / Diamond]
+- Representing: [GLA UNIVERSITY MATHURA]
+- Final Rank Achieved: [Gold]
 
 ## 📌 Role Overview
 
